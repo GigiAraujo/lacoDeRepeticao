@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47465070821\\Documents\\lacoDeRepeticao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70F3D8EB-65D1-4286-9FB3-B567CD855C56}|lacoDeRepeticao\\lacoDeRepeticao.csproj|c:\\users\\47465070821\\documents\\lacoderepeticao\\lacoderepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70F3D8EB-65D1-4286-9FB3-B567CD855C56}|lacoDeRepeticao\\lacoDeRepeticao.csproj|solutionrelative:lacoderepeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\47465070821\\Documents\\lacoDeRepeticao\\lacoDeRepeticao\\Program.cs",
+              "RelativeDocumentMoniker": "lacoDeRepeticao\\Program.cs",
+              "ToolTip": "C:\\Users\\47465070821\\Documents\\lacoDeRepeticao\\lacoDeRepeticao\\Program.cs",
+              "RelativeToolTip": "lacoDeRepeticao\\Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAowFMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:20:35.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
